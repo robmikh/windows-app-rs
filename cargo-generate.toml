@@ -1,2 +1,2 @@
 [template]
-include = ["*.dll", "*.lib"]
+exclude = ["*.dll", "*.lib"]
